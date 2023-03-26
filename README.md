@@ -1,1 +1,1 @@
-# udiddit-nanodegree
+# udiddit
